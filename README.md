@@ -1,7 +1,7 @@
 # JavaSip-Android-Studio-App
 Mobile Application using Android Studio
 
-collaborative effort @hi-my-world :sun_with_face:
+collaborative effort with [hi-my-world](https://github.com/hi-my-world) :sun_with_face:
 
 -----------------------------------------------------------------------------------------
 
