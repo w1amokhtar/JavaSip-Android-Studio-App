@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JavaSip</string>
+    <string name="app_logo" />
+
+    <string-array name="options">
+        <item>Americano</item>
+        <item>Latte</item>
+        <item>cappuccino</item>
+        JavaSip
+    </string-array>
+
+</resources>
