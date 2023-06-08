@@ -1,5 +1,9 @@
 # JavaSip-Android-Studio-App
-### JavaSip Mobile Application using Android Studio
+Mobile Application using Android Studio
+
+collaborative effort @hi-my-world :sun_with_face:
+
+-----------------------------------------------------------------------------------------
 
 
 
